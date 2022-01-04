@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Aldovani](https://github-readme-stats.vercel.app/api?username=Aldovani&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldovani&layout=compact)](https://github.com/Aldovani/github-readme-stats)
