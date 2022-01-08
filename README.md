@@ -1,6 +1,6 @@
 ### Olá! Eu sou Aldovani Henrique   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<div  >  
+<div style="display: inline_block">  
 <a href="https://twitter.com/AldovaniH" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
@@ -16,7 +16,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="display: inline_block">
 <a href="https://github.com/aldovani">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aldovani&show_icons=true&theme=dracula" />
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldovani&layout=compact&hide=css&theme=dracula"/>
@@ -25,7 +25,7 @@
 
 ### Tecnologias que eu uso no meu dia
 
-<div>
+<div style="display: inline_block">
 <img  align="center" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img  align="center" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
