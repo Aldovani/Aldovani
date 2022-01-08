@@ -22,8 +22,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldovani&show_icons=true&theme=dracula" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldovani&layout=compact&hide=css&theme=dracula" height="180em"/>
+   <a href="https://github.com/aldovani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aldovani&show_icons=true&theme=dracula" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldovani&layout=compact&hide=css&theme=dracula"/>
 </div>
 
 <br>
