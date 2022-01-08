@@ -16,7 +16,7 @@
 
 ##
 
-<div align="start" style="display:inline_block">
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aldovani&show_icons=true&theme=dracula" />
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldovani&layout=compact&hide=css&theme=dracula"/>
 </div>
