@@ -3,9 +3,9 @@
 
   
 <div align="center">
-  <a href="https://github.com/ThatianeDeboleto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThatianeDeboleto&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianeDeboleto&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <a href="https://github.com/aldovani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldovani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldovani&layout=compact&langs_count=7&hide=css&theme=dracula"/>
 </div>
   
 ### Tecnologias que eu uso no meu dia
