@@ -1,6 +1,5 @@
 ### Olá! Eu sou Aldovani Henrique   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<br>
 
 <div  >
   
@@ -22,9 +21,9 @@
 <br>
 
 <div align="center">
-   <a href="https://github.com/aldovani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aldovani&show_icons=true&theme=dracula" />
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldovani&layout=compact&hide=css&theme=dracula"/>
+<a href="https://github.com/aldovani">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aldovani&show_icons=true&theme=dracula" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldovani&layout=compact&hide=css&theme=dracula"/>
 </div>
 
 <br>
