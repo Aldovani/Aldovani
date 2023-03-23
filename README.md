@@ -13,7 +13,9 @@
 <br/>
 
 - 👨🏻‍🎓 I'm a student of Systems Analysis and Development at Fatec in Taquaritinga-SP.
+
 - 💻 Focused on Front-end development.
+
 - 🌱 Learning new technologies and creating personal projects.
 <br/>
 
