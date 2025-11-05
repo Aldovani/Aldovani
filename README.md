@@ -1,29 +1,42 @@
-# Aldovani Henrique 
-<div>
-<a href="https://twitter.com/AldovaniH" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aldovani-henrique-da-costa-2a460b21a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mail:aldovanihcosta@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
-<br/>
+# Welcome to My Profile! 👋
 
-- 👨🏻‍🎓 I'm a student of Systems Analysis and Development at Fatec in Taquaritinga-SP.
+## About Me
 
-- 💻 Focused on Front-end development.
+Hello, I'm Aldovani henrique, a Software Development Engineer (JR) and a current Bachelor's student in Data Science with a focus on Artificial Intelligence. With a background in Software Development and a technical diploma in Systems Development, I bring a diverse skill set to the table.
 
-- 🌱 Learning new technologies and creating personal projects.
-<br/>
+## Professional Background
 
-## 🦄 Skills & Tools
-<b>Front-end</b> Html, Css, Sass, Js, Typescript, ReactJs, Next
+- **Current Stack:** Software Engineer with expertise in Java, Spring, Kotlin, and Node.js.
+- **Previous Experience:** Proficient in C# ASP.Net and Angular.
+- **Certifications:** AWS Certified.
 
-<b>Back-end</b> Node, Adonis, Mysql, Sql Server
+## Technical Toolbox
 
-<b>Tools</b>  VSCode, Figma, Vercel, Git and GitHub.
-<br/>
+Here are some of the key technologies and tools I work with:
 
+- **Programming Languages:** javaScript, TypeScript, Node.js, java.
+- **Frameworks:** NextsJs, NestJs, React, Vue.
+- **Cloud Technologies:** AWS **.
+- **Containers & Orchestration:** Docker.
+
+## Projects
+
+CJ
+CD
+slashCode 
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldovani)
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldovani/)
+
+## Contributions
+
+Feel free to explore and contribute to any of my projects. Open to collaboration and improvement suggestions!
+
+---
+
+Thanks for visiting me! 😊
