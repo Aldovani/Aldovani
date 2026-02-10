@@ -6,8 +6,8 @@ Hello, I'm Aldovani henrique, a Software Development Engineer (JR) and a current
 
 ## Professional Background
 
-- **Current Stack:** Software Engineer with expertise in Java, Spring, Kotlin, and Node.js.
-- **Previous Experience:** Proficient in C# ASP.Net and Angular.
+- **Current Stack:** Software Engineer with expertise in NodeJs, Typescript, ReactJs, and Java.
+- **Previous Experience:** Proficient in Typescript, React, NestJs.
 - **Certifications:** AWS Certified.
 
 ## Technical Toolbox
